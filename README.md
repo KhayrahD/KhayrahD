@@ -52,4 +52,4 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupyter/Co
 
 ---
 
-Feel free to reach out to us to collaborate! Let’s grow together in this journey of using data for good.
+Feel free to reach out to collaborate with me! Let’s grow together in this journey of using data for good.

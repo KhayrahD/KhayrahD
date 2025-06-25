@@ -40,13 +40,12 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupyter/Co
 
 * Beginner-friendly end-to-end data science projects
 * Projects related to predictive modelling or NLP, especially in the mental health space
-* Learning and applying ethical AI and responsible data practices together
 
 ---
 
 ## I'm Looking For Help With
 
-* Understanding and applying Responsible AI, predictive modelling, and NLP as a beginner
+* Understanding and applying predictive modelling and NLP as a beginner
 * Getting hands-on experience with real-world datasets and practical workflows
 * Guidance on transitioning into entry-level or internship opportunities in data science
 
